@@ -1,0 +1,25 @@
+{
+  "name": "tabuada-programa-o-web",
+  "version": "1.0.0",
+  "description": "projeto Academico ",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThzEverton/Tabuada-Programa-o-web.git"
+  },
+  "author": "Everton Thomaz de Lima Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThzEverton/Tabuada-Programa-o-web/issues"
+  },
+  "homepage": "https://github.com/ThzEverton/Tabuada-Programa-o-web#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
