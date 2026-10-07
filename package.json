@@ -1,7 +1,7 @@
 {
   "name": "tabuada-web",
   "version": "1.0.0",
-  "description": "projeto Academico ",
+  "description": "Aplicação web acadêmica em Node.js e Express para geração dinâmica de tabuadas.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -20,5 +20,6 @@
   "homepage": "https://github.com/ThzEverton/Tabuada-Programa-o-web#readme",
   "dependencies": {
     "express": "^4.21.1"
-  }
+  },
+  "private": true
 }
